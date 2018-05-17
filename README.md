@@ -1,5 +1,6 @@
 # DANSA
-Drone Assisted Network Spectrum Analyzer
+Drone Assisted Network Spectrum Analyzer (DANSA)
+
 Senior Design Project at Purdue University utilizing microcontroller stm32F0 and various extrnal modules such as WiFi, GPS/GSM and SD card storage.
 The DANSA is designed to conduct autonomous wireless site surveying for large buildings. The product works by gathering GPS/GSM location data and matching it wit WiFi RSID at certain locations and storing them on an SD card. The data is then run through a Python script which generates a WiFi HeatMap on on Google Maps.
 
