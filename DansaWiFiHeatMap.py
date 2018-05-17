@@ -57,23 +57,3 @@ for k,v in dicts.items():
     
     
     gmap.draw("output/[{}]DANSA_WifiHeatMap.html".format(k))
- 
-        
-#rad = []
-#for i in rssi:
-#    distance = 10 ^ int(((-69.0-i)/(10.0*3.0)))
-#    rad.append(distance)
-#print(latitudes)
-#print(longitudes)
-#print(rssi)
-#print(alteredRSSI)
-#print(rad)
-
-#gmap = gmplot.GoogleMapPlotter(40.428723, -86.913888, 17)
-#gmap.marker(latitudes[1], longitudes[1], 'cornflowerblue')
-#gmap.plot(latitudes, longitudes, 'cornflowerblue', edge_width=10)
-#gmap.heatmap_weighted(latitudes, longitudes, alteredRSSI, radius=25, dissipating=False) #fix radius given formula [i for i in rad]
-
-#gmap.draw("DANSAHeatMap.html")
- 
-
