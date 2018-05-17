@@ -6,8 +6,8 @@ The DANSA is designed to conduct autonomous wireless site surveying for large bu
 
 The microcontroller communicates with the GPS/GSM module and WiFi module via UART, the LED strip through PWM and FreeRTOS, and the SD card with SPI and FatFs. 
 
-Microcontroller: STM32F051R8T6
-GPS/GSM module: SIMCom SIM808
-WiFi Module: Redpine rs9113-n00-d1w
-SD Card: SanDisk 32GB
-LED Strip: NeoPixel ws2812b
+Microcontroller: STM32F051R8T6\
+GPS/GSM module: SIMCom SIM808\
+WiFi Module: Redpine rs9113-n00-d1w\
+SD Card: SanDisk 32GB\
+LED Strip: NeoPixel ws2812b\
