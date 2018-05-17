@@ -10,4 +10,4 @@ Microcontroller: STM32F051R8T6\
 GPS/GSM module: SIMCom SIM808\
 WiFi Module: Redpine rs9113-n00-d1w\
 SD Card: SanDisk 32GB\
-LED Strip: NeoPixel ws2812b\
+LED Strip: NeoPixel ws2812b
